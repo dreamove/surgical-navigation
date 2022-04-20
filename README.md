@@ -1,0 +1,2 @@
+# surgical-navigation
+This project contains two main files, "capisample" is developed in VS based on Winform and is used for communication and data calculation between hololens and NDI tracker. The .unity file is a virtual scene designed in unity (you need to import the MRTK development kit of Hololens and convert the project into a UWP project before running), and finally package and generate a UWP application for installation into Hololens2.
